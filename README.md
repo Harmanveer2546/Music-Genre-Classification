@@ -27,11 +27,11 @@ The GTZAN dataset contains 1000 audio files. Contains a total of 10 genres, each
 #### Genres original-
 A compilation of ten genres, each with 100 audio recordings, each lasting 30 seconds (the famous GTZAN dataset, the MNIST of sounds)
 
-#### Images original
+#### Images original-
 Each audio file has a visual representation. Neural networks are one technique to classify data because 
 they usually take in some form of picture representation.
 
-#### CSV files
+#### CSV files-
 The audio files' features are contained within. Each song lasts for 30 seconds long has a mean and variance 
 computed across several features taken from an audio file in one file. The songs are separated into 3 second 
 audio files in the other file, which has the same format.
